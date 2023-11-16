@@ -1,0 +1,72 @@
+.header{
+    width: 95%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 1%;
+    background-color: rgb(243, 243, 243); 
+    margin: 0 auto;
+    border-radius: 2%;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.nav {
+display: flex;
+gap: 10%;
+margin: 0 auto;
+max-width: 95%;
+height: 120vh;
+padding: 2% 2%;
+
+
+}
+.navBar{
+    overflow:scroll;
+}
+.navBar h4{
+    background-color: black;
+    color: white;
+    padding: 3% 3%;
+}
+.navBar h5{
+    background-color: aliceblue;
+    padding: 3% 3%;
+}
+.navBar ul{
+    width: 40vh;
+}
+.navBar li{
+    padding: 1% 1%;
+    list-style-type: none;
+    cursor: pointer;
+ 
+    color: rgba(0, 0, 0, 0.4);
+font-style: italic;
+}
+.input{
+    position: absolute;
+   right: 7%;
+   display: flex;
+   width: 120vh;
+   justify-content: space-between;
+   @media(max-width: 960px) {
+    width: 100%;
+justify-content: right;
+    
+   }
+}
+.input input{
+    width: 40vh;
+    @media(max-width: 960px) {
+        width: 15vh;
+    }
+    
+}
+::-webkit-scrollbar{
+    width:0;
+      height: 0.1rem;
+      background-color: #fffefeb9;
+  }
+  ::-webkit-scrollbar-thumb{
+      background-color: rgb(99, 91, 76);
+      border-radius: 2px;}

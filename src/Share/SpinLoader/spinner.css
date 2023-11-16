@@ -1,0 +1,27 @@
+@keyframes spinner {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  .loading-spinner {
+    width: 65px;
+    height: 65px;
+    border: 16px solid #ff1eff; /* Light grey */
+    border-top: 16px solid #ffffff69; /* Blue */
+    border-radius: 50%;
+    animation: spinner 1.5s linear infinite;
+  }
+  
+  .spinner-container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    z-index: 9999;
+  }
