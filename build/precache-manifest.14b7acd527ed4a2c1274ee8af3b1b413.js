@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df19b9c9f0e09f1d6fa05d485d16cac6",
+    "revision": "338a3115d31005d3463edda632c88852",
     "url": "/asm03-nodejs-client/index.html"
   },
   {
-    "revision": "839728a630c322aa5bc4",
+    "revision": "6d0836097115ad8d5863",
     "url": "/asm03-nodejs-client/static/css/main.fc7e7e72.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asm03-nodejs-client/static/js/3.751ae1dc.chunk.js"
   },
   {
-    "revision": "839728a630c322aa5bc4",
-    "url": "/asm03-nodejs-client/static/js/main.59468a8f.chunk.js"
+    "revision": "6d0836097115ad8d5863",
+    "url": "/asm03-nodejs-client/static/js/main.99f3b35f.chunk.js"
   },
   {
     "revision": "efd4db25f08a4d27d721",

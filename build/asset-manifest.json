@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/asm03-nodejs-client/static/css/main.fc7e7e72.chunk.css",
-    "main.js": "/asm03-nodejs-client/static/js/main.59468a8f.chunk.js",
-    "main.js.map": "/asm03-nodejs-client/static/js/main.59468a8f.chunk.js.map",
+    "main.js": "/asm03-nodejs-client/static/js/main.99f3b35f.chunk.js",
+    "main.js.map": "/asm03-nodejs-client/static/js/main.99f3b35f.chunk.js.map",
     "runtime~main.js": "/asm03-nodejs-client/static/js/runtime~main.cf31991a.js",
     "runtime~main.js.map": "/asm03-nodejs-client/static/js/runtime~main.cf31991a.js.map",
     "static/js/2.1c1083b0.chunk.js": "/asm03-nodejs-client/static/js/2.1c1083b0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.751ae1dc.chunk.js": "/asm03-nodejs-client/static/js/3.751ae1dc.chunk.js",
     "static/js/3.751ae1dc.chunk.js.map": "/asm03-nodejs-client/static/js/3.751ae1dc.chunk.js.map",
     "index.html": "/asm03-nodejs-client/index.html",
-    "precache-manifest.b10693fc9991879f53fd07872eb65ecf.js": "/asm03-nodejs-client/precache-manifest.b10693fc9991879f53fd07872eb65ecf.js",
+    "precache-manifest.14b7acd527ed4a2c1274ee8af3b1b413.js": "/asm03-nodejs-client/precache-manifest.14b7acd527ed4a2c1274ee8af3b1b413.js",
     "service-worker.js": "/asm03-nodejs-client/service-worker.js",
     "static/css/main.fc7e7e72.chunk.css.map": "/asm03-nodejs-client/static/css/main.fc7e7e72.chunk.css.map",
     "static/media/banner1.jpg": "/asm03-nodejs-client/static/media/banner1.3ea3fe2d.jpg",
