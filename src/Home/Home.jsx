@@ -118,7 +118,7 @@ function Home(props) {
           <section className="pt-5">
             <header className="text-center">
               <p className="small text-muted small text-uppercase mb-1">
-                Carefully created collections
+                Carefully created collections 
               </p>
               <h2 className="h5 text-uppercase mb-4">Browse our categories</h2>
             </header>

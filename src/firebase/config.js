@@ -5,12 +5,13 @@ import { getAuth,FacebookAuthProvider, GoogleAuthProvider, GithubAuthProvider } 
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBH5k9Qq6TGSpqhm10hIk0dNZ3nAStfxDk",
-  authDomain: "test-for-test-8a55a.firebaseapp.com",
-  projectId: "test-for-test-8a55a",
-  storageBucket: "test-for-test-8a55a.appspot.com",
-  messagingSenderId: "1059293840407",
-  appId: "1:1059293840407:web:24ffd8f87bcd7e1c508852"
+  apiKey: "AIzaSyCcLhrlm_Q4QiCEt98Zqjq-gi5eEnh4Kl8",
+  authDomain: "asm03-nodejs-clientapp.firebaseapp.com",
+  databaseURL: "https://asm03-nodejs-clientapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "asm03-nodejs-clientapp",
+  storageBucket: "asm03-nodejs-clientapp.appspot.com",
+  messagingSenderId: "459402461741",
+  appId: "1:459402461741:web:e80d0b09fee7153a88aea4"
   };
 
 // Initialize Firebase
